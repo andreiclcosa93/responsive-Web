@@ -1,0 +1,118 @@
+/* Margin */
+
+.my-1 {
+ 	margin: 1rem 0;
+}
+
+.my-2 {
+	margin: 1.5rem 0;
+}
+
+.my-3 {
+	margin: 2rem 0;
+}
+
+.my-4 {
+	margin: 3rem 0;
+}
+
+.my-5 {
+	margin: 4rem 0;
+}
+
+.m-1 {
+	margin: 1rem;
+}
+
+.m-2 {
+	margin: 1.5rem;
+}
+
+.m-3 {
+	margin: 2rem;
+}
+
+.m-4 {
+	margin: 3rem;
+}
+
+.m-5 {
+	margin: 4rem;
+}
+
+/* Padding */
+.py-1 {
+	padding: 1rem 0;
+}
+
+.py-2 {
+	padding: 1.5rem 0;
+}
+
+.py-3 {
+	padding: 2rem 0;
+}
+
+.py-4 {
+	padding: 3rem 0;
+}
+
+.py-5 {
+	padding: 4rem 0;
+}
+
+.p-1 {
+	padding: 1rem;
+}
+
+.p-2 {
+	padding: 1.5rem;
+}
+
+.p-3 {
+	padding: 2rem;
+}
+
+.p-4 {
+	padding: 3rem;
+}
+
+.p-5 {
+	padding: 4rem;
+}
+
+/*text size*/
+
+.lead {
+	font-size: 30px;
+}
+
+.sm {
+	font-size: 1rem;
+}
+
+.md {
+	font-size: 2rem;
+}
+
+.lg {
+	font-size: 3rem;
+}
+
+.xl {
+	font-size: 4rem;
+}
+
+.alert {
+	background: #0f0c29;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	color: #fff;
+	padding: 10px 20px;
+	font-weight: bolder;
+	margin: 15px 0;
+}
+
+.alert i {
+	margin-right: 10px;
+}
